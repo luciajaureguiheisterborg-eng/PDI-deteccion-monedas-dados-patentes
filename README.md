@@ -9,7 +9,7 @@
 
 ### **Descripción del trabajo**
 
-**1° problema:** Detección de monedas y dedos  
+**1° problema:** Detección de monedas y dados  
 **2° problema:** Detección de patentes
 
 ### **Requisitos previos**
